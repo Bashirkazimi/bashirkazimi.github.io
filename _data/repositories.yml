@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bashirkazimi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bashirkazimi/wordle-persian
+  - bashirkazimi/tomoseg
+  - SSL-DTM/semantic_segmentation
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
