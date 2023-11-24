@@ -9,7 +9,7 @@ disqus_comments: true
 We placed 3rd in the Help a hematologist out Challenge at the Helmholtz Incubator Summer Academy – From Zero to Hero, 2022.
 
 
-I attended the Helmholtz Incudbator Summer Academy - From Zero to Hero, 2022. I specially took part in the [Help a hematologist out Challenge](https://helmholtz-data-challenges.de/web/challenges/challenge-page/93/overview){:target="_blank"} and joined the BLAMAD team. The theme of the challenge was to find creative domain adaptation solutions for blood-cell classification which is important for diagnosis of diseaeses such as anemia or leukemia. 
+I attended the Helmholtz Incubator Summer Academy - From Zero to Hero, 2022. I specially took part in the [Help a hematologist out Challenge](https://helmholtz-data-challenges.de/web/challenges/challenge-page/93/overview){:target="_blank"} and joined the BLAMAD team. The theme of the challenge was to find creative domain adaptation solutions for blood-cell classification which is important for diagnosis of diseaeses such as anemia or leukemia. 
 
 We were given two annotated datasets (Mat_19 and Ace_20) on white blood cell images and the goal was to classify the cell type on a third, unseen dataset (WBC1). We used Cycle-GAN for domain adaptation, i.e., unpaird image translation between images in the annotated datasets and images in the unseen dataset. Afterwards, the trained generator was used to transform images in the annotated datasets to those of the unseen dataset. An example image-to-image translation between source and target datasets is shown below:
 
