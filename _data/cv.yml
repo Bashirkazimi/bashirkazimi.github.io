@@ -2,107 +2,137 @@
   type: map
   contents:
     - name: Full Name
-      value: Bashir Kazimi
+      value: Dr.-Ing. Bashir Kazimi
     - name: Background
       value: Computer Science, Artificial Intelligence
     - name: Research Interest and Expertise
       value: Deep Learning and Computer Vision
     - name: Languages
-      value: Persian, Turkish, English and German
+      value: Persian, Turkish, English, and German
     - name: Tools/Libraries
-      value: Python, PyTroch and Tensorflow
+      value: Python, PyTorch, and Tensorflow
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Leibniz University, Hannover, Germany
-      year: 2021
+    - title: Ph.D. in Geodesy and Geoinformatics
+      year: 2017-2021
+      institution: Leibniz University Hannover, Hannover, Germany
+      location: Hannover, Germany
+      duration: Apr. 2017 -- Jul. 2021
       description:
-        - Institute of Cartography and Geoinformatics
-        - Deep Learning/Computer Vision on LiDAR for Archaeology
-        - title: Dissertation
-          contents:
-            - Self Supervised Learning for Detection of Archaeological Monuments in LiDAR Data
-            - Supervised by Prof. Dr.-Ing. Monika Sester
-    - title: M. Sc. in Artificial Intelligence
-      institution: Polytechnic University of Catalonia (UPC), Barcelona, Spain
-      year: 2017
+        - Worked on applications of deep learning in airborne laser scanning data
+        - Multiple publications and projects on detection of archaeological objects
+        - Dissertation on Self Supervised Learning for Detection of Archaeological Monuments in LiDAR Data supervised by Prof. Dr.-Ing. habil. Monika Sester
+    - title: M.Sc. in Artificial Intelligence
+      year: 2015-2017
+      institution: Polytechnic University of Catalonia, Barcelona, Spain
+      location: Barcelona, Spain
+      duration: Sep. 2015 -- Apr. 2017
       description:
-        - Deep Learning, Computer Vision, Natural Language Processing
-        - title: Master Thesis
-          contents:
-            - Coverage for Character Based Neural Machine Translation
-            - Supervised by Prof. Marta R. Costa-jussà
-    - title: B. Sc. in Computer Engineering
-      institution: Middle East Technical University, Ankara, Türkiye
-      year: 2015
+        - Fundamental courses and projects in Machine Learning, Computer Vision, and Natural Language Processing
+        - Master Thesis in Neural Machine Translation supervised by Marta Ruiz Costa-jussà
+        - Publication at International Journal of the Spanish Society for Natural Language Processing
+    - title: B.Sc. in Computer Engineering
+      year: 2010-2015
+      institution: Middle East Technical University (METU), Ankara, Turkey
+      location: Ankara, Turkey
+      duration: Sep. 2010 -- Jun. 2015
       description:
-        - Computer Engineering Concepts, Data Structures, Programming Language Concepts, Algorithms, Computer Organization, Operating Systems, Computer Graphics, Data Management and File Structures, etc.
+        - Got a Turkish Government Scholarship for undergraduate studies
+        - Was part of a 4-people team that built a social network as a graduation project
 
 - title: Experience
   type: time_table
   contents:
-    - title: Deep Learning Researcher
-      institution: Institute for Materials Data Science and Informatics (IAS-9), Forschungszentrum Jülich, Aachen, Germany
-      year: 2023 - Present
+    - title: Research Group Leader
+      institution: Forschungszentrum Jülich, Institute for Materials Data Science and Informatics (IAS-9)
+      year: Feb. 2023 - Present
       description:
-        - Data Analysis and Machine Learning Group
-        - Deep Learning/Computer Vision 
-    - title: Deep Learning Researcher
-      institution: Helmholtz-Zentrum Hereon, Hamburg, Germany
-      year: 2021-2023
+        - Leading the Data Science and Computer Vision for Electron Microscopy Lab
+        - Research on deep learning for electron microscopy data
+        - Prototyping and implementation of unsupervised, semi‑supervised and supervised learning models
+        - Applications of Generative Adversarial Networks (GANs), Autoencoders and Diffusion Models
+        - Denoising, super‑resolution and segmentation of transmission electron microscopy (TEM) images of nanoparticles
+        - Implementations in PyTorch/Lightning
+        - Data pre and post‑processing and visualization with Scikit‑Learn, Pandas, Scikit‑image, and Matplotlib
+        - Experiment tracking, monitoring and visualization with Wandb
+    - title: Postdoctoral Researcher
+      institution: Helmholtz Zentrum Hereon, Institute of Materials Physics
+      year: Apr. 2021 - Dec. 2022
       description:
-        - Institute of Materials Physics
-        - Deep Learning applied to synchrotron radiated micro computed tomography data
-
-    - title: Deep Learning Researcher
-      institution: Institute of Cartography and Geoinformatics, Hannover, Germany.
-      year: 2017 - 2021
+        - Research on segmentation of bone implants using deep learning and synchrotron radiation computed tomography (CT) data
+        - Development of active learning methods well‑suited for tasks with small amounts of annotated data
+        - Implementations in PyTorch
+        - Data analysis and visualization using Fiji/ImageJ
+        - Contribution to a web‑service for the active learning model to help users/domain experts apply segmentation on their data without having to learn or implement deep learning methods
+    - title: Doctoral Researcher
+      institution: Leibniz University Hannover, Institute of Cartography and Geoinformatics
+      year: Apr. 2017 - Apr. 2021
       description: 
-        - Deep Learning applied to LiDAR data for detection of archaeological monuments
-
-    - title: Intern
-      institution: Typeform, Barcelona, Spain
-      year: 2016 - 2017
+        - Research on detection and description of historical man‑made landscape structures
+        - Prototyping and implementation of self supervised learning models (GANs and Autoencoders) to leverage large volumes of unlabeled data
+        - Transfer learning with self‑supervised pretrained models customized for and finetuned on downstream tasks (classification, semantic and instance segmentation) with limited annotated data
+        - Worked on digital terrain models from airborne laser scanning data
+        - Worked with the ArcGIS software and Python Osgeo/Gdal library for data processing
+        - Used Tensorflow and Keras libraries for implementing deep learning models
+        - Published papers and open sourced implementations for classification, semantic segmentation, and instance segmentation of archaeological objects in digital terrain data using deep learning
+        - Helped teach master level courses, Internet‑GIS (2017) and Environmental Data Analysis (2018 & 2020)
+        - Master Thesis Supervision, Segmentation of Linear Terrain Structures in Digital Terrain Models Using Deep learning by Heyeu Zhang at Leibniz University Hannover (2020)
+        - Master Thesis Supervision, Estimation of building parameters from street view images by Xin Hu at Leibniz University Hannover (2020)
+        - Master student project supervision, Extraction of linear structures from digital terrain models using deep learning by Ramish Satari at Leibniz University Hannover (2020)
+    - title: Visiting Researcher
+      institution: University of Melbourne, Department of Infrastructure Engineering
+      year: Nov. 2017 - Dec. 2017
       description:
-        - Quality assurance
+        - Research visit as part of a scholarship award by DAAD (German Academic Exchange Service)
+        - Research collaboration between Institute of Cartography and Geoinformatics at Leibniz University Hannover and Department of Infrastructure Engineering at University of Melbourne
+        - Worked on and published a paper for archaeological object detection in airborne laser scanning data
+    - title: Quality Assurance Intern
+      institution: Typeform S.L.
+      year: Jul. 2016 - Mar. 2017
+      description:
+        - Automated and manual software tests for features before being shipped for production
+    - title: Java Developer
+      institution: Open University of Catalonia
+      year: Feb. 2016 - Jul. 2016
+      description:
+        - Helped improve a website for students to upload programming assignments to be graded automatically
 
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
+- title: Awards and Fundings
   type: time_table
   contents:
-    - year: 2017
-      items: 
-        - DAAD German Academic Exchange Service
-        - Scholarship for a research visit at Melbourne University
-    - year: 2009 - 2015
-      items: 
-        - Undergraduate scholarship by Türkiye Scholarships 
+    - year: 2023
+      title: Helmholtz Imaging Project Funding
+      items:
+        - Project titled Deep-Learning Assisted Fast In Situ 4D Electron Microscope Imaging
+        - Prof. Stefan Sandfeld and I, together with our collaborators, Prof. Christoph Kirchlechner and Dr. Subin Lee from Institute for Applied Materials – Mechanics of Materials and Interfaces (IAM‑MMI), got the Helmholtz Imaging Project funding of 200K Euros for the proposal of our project planned for 3 years
+    - year: 2022
+      title: Help a hematologist out Challenge
+      items:
+        - 3rd place winning solution
+        - I took part in the Help a hematologist out Challenge at Helmholtz Incubator Summer Academy ‑ From Zero to Hero, 2022 and joined the BLAMAD team. The theme of the challenge was to find creative domain adaptation solutions for blood‑cell classification which is important for diagnosis of diseaeses such as anemia or leukemia. We used domain adaptation techniques and won the 3rd place among all participating teams
 
-
-- title: Academic Interests
-  type: nested_list
+- title: Presentations/Talks
+  type: list
   contents:
-    - title: Deep Learning
-    - title: Computer Vision
-    - title: Data Science
-    #   items: 
-    #     - Description 1.
-    #     - Description 2.
-    # - title: Topic 2.
-    #   items:
-    #     - Description 1.
-    #     - Description 2.
+    - 1st Conference on Artificial Intelligence in Materials Science and Engineering, Saarbrücken, Germany, Nov. 2023. Oral presentation on Enhancing Semantic Segmentation in High‑Resolution TEM Images through Pretraining on Unlabeled Data.
+    - 2nd Joint Lab MDMC Workshop, Jülich, Germany, Mar. 2023. Oral presentation on Introduction to the joint ER‑C/IAS‑9 Electron Microscopy Data Science Lab.
+    - Helmholtz AI Conference, Dresden, Germany, Jun. 2022. Oral presentation on Deep Active Learning for Segmentation of Biodegradable Bone Implants in High Resolution Synchrotron Radiation Microtomograms.
+    - Conference on Cultural Heritage and New Technologies (CHNT 25), Vienna, Austria, Nov. 2020, Oral presentation on Effectiveness of DTM Derivatives for Object Detection Using Deep Learning.
+    - Conference on Cultural Heritage and New Technologies (CHNT 24), Vienna, Austria, Nov. 2019. Oral presentation on Semi Supervised Learning for Archaeological Object Detection in Digital Terrain Models.
+    - 38. Wissenschaftlich‑Technische Jahrestagung der DGPF e.V., PFGK18, Munich, Germany, Mar. 2018. Poster presentation on Classification of laser scanning data using deep learning.
+    - 10th International Conference on Geographic Information Science, GIScience, Melbourne, Australia, Aug. 2018. Oral presentation on Deep learning for archaeological object detection in airborne laser scanning data.
+    - The 18th International Conference on Computer Analysis of Images and Patterns, Salerno, Italy, Sep. 2019. Poster presentation on Object instance segmentation in digital terrain models.
+    - Joint ISPRS Conference on Photogrammetric Image Analysis and Munich Remote Sensing Symposium, PIA 2019+MRSS, Munich, Germany, Sep. 2020. Oral presentation on Semantic Segmentation of Manmade Landscape Structures in Digital Terrain Models.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Skills
+  type: map
+  contents:
+    - name: Languages 
+      value: Persian (Native), Turkish (Advanced), English (Advanced), German (B2, Goethe Certificate)
+    - name: Technical Skills 
+      value: Python, PyTorch/Lightning, Tensorflow/Keras, Pandas, Scikit‑Learn, ArcGIS, Osgeo/Gdal, Git, Docker, SQL, Linux, Matploblib, Wandb
+    - name: Machine Learning 
+      value: Linear/Logistic Regression, Clustering, Convolutional Neural Networks, Classification, Semantic Segmentation, Object Detection, Instance Segmentation, Prototyping, GANs, Autoecnoders, Vision Transformers, Diffusion Models
+
