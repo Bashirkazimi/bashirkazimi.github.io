@@ -47,9 +47,14 @@
   contents:
     - title: Research Group Leader
       institution: Forschungszentrum Jülich, Institute for Materials Data Science and Informatics (IAS-9)
-      year: Feb. 2023 - Present
+      year: Sep. 2023 - Present
       description:
         - Leading the Data Science and Computer Vision for Electron Microscopy Lab
+        - Research on deep learning for electron microscopy data
+    - title: Postdoctoral Researcher
+      institution: Forschungszentrum Jülich, Institute for Materials Data Science and Informatics (IAS-9)
+      year: Feb. 2023 - Aug. 2023
+      description:
         - Research on deep learning for electron microscopy data
         - Prototyping and implementation of unsupervised, semi‑supervised and supervised learning models
         - Applications of Generative Adversarial Networks (GANs), Autoencoders and Diffusion Models

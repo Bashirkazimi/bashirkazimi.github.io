@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st Conference on Artificial Intelligence in Materials Science and Engineering
+title: Talk at the 1st Conference on Artificial Intelligence in Materials Science and Engineering
 date: 2023-11-24
 inline: false
 disqus_comments: true
