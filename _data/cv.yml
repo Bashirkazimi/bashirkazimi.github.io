@@ -119,19 +119,6 @@
         - 3rd place winning solution
         - I took part in the Help a hematologist out Challenge at Helmholtz Incubator Summer Academy ‑ From Zero to Hero, 2022 and joined the BLAMAD team. The theme of the challenge was to find creative domain adaptation solutions for blood‑cell classification which is important for diagnosis of diseaeses such as anemia or leukemia. We used domain adaptation techniques and won the 3rd place among all participating teams
 
-- title: Presentations/Talks
-  type: list
-  contents:
-    - 1st Conference on Artificial Intelligence in Materials Science and Engineering, Saarbrücken, Germany, Nov. 2023. Oral presentation on Enhancing Semantic Segmentation in High‑Resolution TEM Images through Pretraining on Unlabeled Data.
-    - 2nd Joint Lab MDMC Workshop, Jülich, Germany, Mar. 2023. Oral presentation on Introduction to the joint ER‑C/IAS‑9 Electron Microscopy Data Science Lab.
-    - Helmholtz AI Conference, Dresden, Germany, Jun. 2022. Oral presentation on Deep Active Learning for Segmentation of Biodegradable Bone Implants in High Resolution Synchrotron Radiation Microtomograms.
-    - Conference on Cultural Heritage and New Technologies (CHNT 25), Vienna, Austria, Nov. 2020, Oral presentation on Effectiveness of DTM Derivatives for Object Detection Using Deep Learning.
-    - Conference on Cultural Heritage and New Technologies (CHNT 24), Vienna, Austria, Nov. 2019. Oral presentation on Semi Supervised Learning for Archaeological Object Detection in Digital Terrain Models.
-    - 38. Wissenschaftlich‑Technische Jahrestagung der DGPF e.V., PFGK18, Munich, Germany, Mar. 2018. Poster presentation on Classification of laser scanning data using deep learning.
-    - 10th International Conference on Geographic Information Science, GIScience, Melbourne, Australia, Aug. 2018. Oral presentation on Deep learning for archaeological object detection in airborne laser scanning data.
-    - The 18th International Conference on Computer Analysis of Images and Patterns, Salerno, Italy, Sep. 2019. Poster presentation on Object instance segmentation in digital terrain models.
-    - Joint ISPRS Conference on Photogrammetric Image Analysis and Munich Remote Sensing Symposium, PIA 2019+MRSS, Munich, Germany, Sep. 2020. Oral presentation on Semantic Segmentation of Manmade Landscape Structures in Digital Terrain Models.
-
 - title: Skills
   type: map
   contents:
@@ -141,4 +128,19 @@
       value: Python, PyTorch/Lightning, Tensorflow/Keras, Pandas, Scikit‑Learn, ArcGIS, Osgeo/Gdal, Git, Docker, SQL, Linux, Matploblib, Wandb
     - name: Machine Learning 
       value: Linear/Logistic Regression, Clustering, Convolutional Neural Networks, Classification, Semantic Segmentation, Object Detection, Instance Segmentation, Prototyping, GANs, Autoecnoders, Vision Transformers, Diffusion Models
+
+- title: Presentations/Talks
+  type: list
+  contents:
+    - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Computer Vision for Materials Science Workshop, Seattle, WA, USA, June, 2024. Oral presentation on Self-Supervised Learning with Generative Adversarial Networks for Electron Microscopy. 
+    - "The Eighth Conference on Frontiers of Aberration Corrected Electron Microscopy (PICO24), Vaals, Netherlands, Apr. 2024. Poster presentation on Enhancing Semantic Segmentation in High-Resolution TEM Images: A Comparative Study of Batch Normalization and Instance Normalization."
+    - 1st Conference on Artificial Intelligence in Materials Science and Engineering, Saarbrücken, Germany, Nov. 2023. Oral presentation on Enhancing Semantic Segmentation in High‑Resolution TEM Images through Pretraining on Unlabeled Data.
+    - 2nd Joint Lab MDMC Workshop, Jülich, Germany, Mar. 2023. Oral presentation on Introduction to the joint ER‑C/IAS‑9 Electron Microscopy Data Science Lab.
+    - Helmholtz AI Conference, Dresden, Germany, Jun. 2022. Oral presentation on Deep Active Learning for Segmentation of Biodegradable Bone Implants in High Resolution Synchrotron Radiation Microtomograms.
+    - Conference on Cultural Heritage and New Technologies (CHNT 25), Vienna, Austria, Nov. 2020, Oral presentation on Effectiveness of DTM Derivatives for Object Detection Using Deep Learning.
+    - Conference on Cultural Heritage and New Technologies (CHNT 24), Vienna, Austria, Nov. 2019. Oral presentation on Semi Supervised Learning for Archaeological Object Detection in Digital Terrain Models.
+    - 38. Wissenschaftlich‑Technische Jahrestagung der DGPF e.V., PFGK18, Munich, Germany, Mar. 2018. Poster presentation on Classification of laser scanning data using deep learning.
+    - 10th International Conference on Geographic Information Science, GIScience, Melbourne, Australia, Aug. 2018. Oral presentation on Deep learning for archaeological object detection in airborne laser scanning data.
+    - The 18th International Conference on Computer Analysis of Images and Patterns, Salerno, Italy, Sep. 2019. Poster presentation on Object instance segmentation in digital terrain models.
+    - Joint ISPRS Conference on Photogrammetric Image Analysis and Munich Remote Sensing Symposium, PIA 2019+MRSS, Munich, Germany, Sep. 2020. Oral presentation on Semantic Segmentation of Manmade Landscape Structures in Digital Terrain Models.
 
