@@ -5,6 +5,7 @@ date: 2022-02-28
 description: Saw a cute dog or a beautiful cat and wonder what breed it is? This CNN model can help you.
 disqus_comments: true
 tags: cnn, deep_learning
+hidden: true
 ---
 
 
