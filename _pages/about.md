@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.fz-juelich.de/de/ias/ias-9'> Data Analysis and Machine Learning Group at IAS-9, Forschungszentrum Jülich</a>
+subtitle: Deep Learning Researcher
 
 profile:
   align: right
@@ -18,7 +18,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Deep Learning Researcher with experience in various fields, including self-supervised learning for detection of archaeological monuments in LiDAR data and deep active learning applied to synchrotron radiated micro computed tomography data. I am originally from Ghazni, Afghanistan and have a Bachelor's degree in Computer Engineering from Middle East Technical University in Ankara, Turkey, a Master's degree in Artificial Intelligence from Polytechnic University of Catalonia in Barcelona, Spain, and a PhD degree from Leibniz University Hannover, Germany.
-
-I am now a part of the Data Analysis and Machine Learning group at the Institute for Materials Data Science and Informatics (IAS-9) at Forschungszentrum Jülich, where I lead the data science lab for deep learning and computer vision in electron microscopy.
+I am a Deep Learning Researcher specializing in self-supervised learning and deep active learning, with applications ranging from archaeological monument detection in LiDAR data to synchrotron radiated micro-CT data analysis, and electron microscopy data. Originally from Ghazni, Afghanistan, I have a Bachelor's in Computer Engineering from Middle East Technical University, a Master's in AI from Polytechnic University of Catalonia, and a PhD from Leibniz University Hannover. Currently, I lead the data science lab for deep learning and computer vision in electron microscopy at the Institute for Materials Data Science and Informatics (IAS-9), Forschungszentrum Jülich.
 
