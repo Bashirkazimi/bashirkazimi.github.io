@@ -137,7 +137,7 @@
 - title: Presentations/Talks
   type: list
   contents:
-    - 37th Umbrella Symposium by RWTH Aachen University, Forschungszentrum Jülich, and the Technion – Israel Institute of Technology themed as Advancing energy materials with state-of-the-art analytics and AI, Jülich, Germany, Sep. 2024. Invited talk on Self-Supervised Learning in Electron Microscopy.
+    - 37th Umbrella Symposium at Forschungszentrum Jülich themed as Advancing energy materials with state-of-the-art analytics and AI, Jülich, Germany, Sep. 2024. Invited talk on Self-Supervised Learning in Electron Microscopy.
     - 17th European Microscopy Congress (EMC), Copenhagen, Denmark, Aug. 2024. Poster presentation on Comparative Analysis of Self-Supervised Learning Techniques for Electron Microscopy Images.
     - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Computer Vision for Materials Science Workshop, Seattle, WA, USA, June, 2024. Oral presentation on Self-Supervised Learning with Generative Adversarial Networks for Electron Microscopy. 
     - "The Eighth Conference on Frontiers of Aberration Corrected Electron Microscopy (PICO24), Vaals, Netherlands, Apr. 2024. Poster presentation on Enhancing Semantic Segmentation in High-Resolution TEM Images: A Comparative Study of Batch Normalization and Instance Normalization."
