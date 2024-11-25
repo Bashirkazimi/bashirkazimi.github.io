@@ -134,6 +134,12 @@
     - name: Machine Learning 
       value: Linear/Logistic Regression, Clustering, Convolutional Neural Networks, Classification, Semantic Segmentation, Object Detection, Instance Segmentation, Prototyping, GANs, Autoecnoders, Vision Transformers, Diffusion Models
 
+- title: Events Organized
+  type: list
+  contents:
+    - Characterization and Properties of Interface-Dominated Materials - InMa 2024 Symposium, Aachen, Germany, Nov. 2024.
+    - Hackathon on Foundation Models for Solar Energy Materials, Jena, Germany, Sep. 2024.
+
 - title: Presentations/Talks
   type: list
   contents:
