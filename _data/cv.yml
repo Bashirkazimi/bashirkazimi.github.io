@@ -143,6 +143,7 @@
 - title: Presentations/Talks
   type: list
   contents:
+    - Helmholtz HFMI Satellite Event and Helmholtz Incubator Workshop, Berlin, Germany, Nov. 2024. Talk on SOL-AI (A symbiotic modular foundation model for accelerating solar energy materials development) Progress.
     - 37th Umbrella Symposium at Forschungszentrum Jülich themed as Advancing energy materials with state-of-the-art analytics and AI, Jülich, Germany, Sep. 2024. Invited talk on Self-Supervised Learning in Electron Microscopy.
     - 17th European Microscopy Congress (EMC), Copenhagen, Denmark, Aug. 2024. Poster presentation on Comparative Analysis of Self-Supervised Learning Techniques for Electron Microscopy Images.
     - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Computer Vision for Materials Science Workshop, Seattle, WA, USA, June, 2024. Oral presentation on Self-Supervised Learning with Generative Adversarial Networks for Electron Microscopy. 
