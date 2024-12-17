@@ -17,6 +17,15 @@ I hope that through this webinar, I was able to spark curiosity, inspire ideas, 
 Thank you to all the students, teachers, and leadership at Irshad Private School for this memorable experience.
 
 ---
+## 📄 Presentation
+[📥 Download the AI Webinar Presentation (PDF)]({{ '/assets/files/ai-webinar-presentation.pdf' | relative_url }})
+
+<iframe src="{{ '/assets/pdf/ai_webinar.pdf' | relative_url }}" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="{{ '/assets/pdf/ai_webinar.pdf' | relative_url }}">Download PDF</a>.
+</iframe>
+
+---
 
 ## 📸 Photo Gallery
 <div class="gallery">
@@ -49,14 +58,5 @@ Thank you to all the students, teachers, and leadership at Irshad Private School
   </a>
   <a href="{{ '/assets/img/ai-webinar-irshad/pic11.jpg' | relative_url }}" data-lightbox="gallery" data-title="Photo 1">
     <img src="{{ '/assets/img/ai-webinar-irshad/pic11.jpg' | relative_url }}" alt="Photo 1">
+  </a>  
 </div>
-
----
-
-## 📄 Presentation
-[📥 Download the AI Webinar Presentation (PDF)]({{ '/assets/files/ai-webinar-presentation.pdf' | relative_url }})
-
-<iframe src="{{ '/assets/pdf/ai_webinar.pdf' | relative_url }}" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="{{ '/assets/pdf/ai_webinar.pdf' | relative_url }}">Download PDF</a>.
-</iframe>
