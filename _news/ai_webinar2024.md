@@ -18,7 +18,7 @@ Thank you to all the students, teachers, and leadership at Irshad Private School
 
 ---
 ## 📄 Presentation
-[📥 Download the AI Webinar Presentation (PDF)]({{ '/assets/files/ai-webinar-presentation.pdf' | relative_url }})
+[📥 Download the AI Webinar Presentation (PDF)]({{ '/assets/pdf/ai_webinar.pdf' | relative_url }})
 
 <iframe src="{{ '/assets/pdf/ai_webinar.pdf' | relative_url }}" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
